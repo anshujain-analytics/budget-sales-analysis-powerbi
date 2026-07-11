@@ -99,7 +99,7 @@ This dashboard enables management to monitor sales performance against budget, i
 
 ## 📷 Dashboard Preview
 
-![Budget & Sales Dashboard](budget-sales-dashboard.png)
+![Budget & Sales Dashboard](Executive Dashboard.png)
 
 ---
 
